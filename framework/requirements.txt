@@ -27,3 +27,6 @@ uuid6==2024.07.10
 uvloop==0.17.0
 uvicorn==0.24.0.post1
 xmltodict==0.12.0
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
