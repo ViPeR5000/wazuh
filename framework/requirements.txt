@@ -4,7 +4,7 @@ cachetools==4.1.0
 chardet==3.0.4
 connexion==3.1.0
 content-size-limit-asgi==0.1.5
-cryptography==42.0.4
+cryptography==44.0.1
 Cython==0.29.36
 defusedxml==0.6.0
 fastapi==0.111.1
