@@ -9,7 +9,7 @@ Cython==0.29.36
 defusedxml==0.6.0
 fastapi==0.111.1
 future==0.18.3
-gunicorn==22.0.0
+gunicorn==23.0.0
 httpx==0.26.0
 jsonschema==4.20.0
 more-itertools==8.2.0
